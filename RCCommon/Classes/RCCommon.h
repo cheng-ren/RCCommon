@@ -11,7 +11,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface RCCommon : NSObject
 
-- (NSString *)version;
++ (NSString *)version;
 
 @end
 

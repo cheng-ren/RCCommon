@@ -9,8 +9,8 @@
 
 @implementation RCCommon
 
-- (NSString *)version {
-    return @"0.1.2";
++ (NSString *)version {
+    return @"0.1.5";
 }
 
 @end
