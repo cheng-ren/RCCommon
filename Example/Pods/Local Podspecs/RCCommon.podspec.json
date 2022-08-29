@@ -1,0 +1,22 @@
+{
+  "name": "RCCommon",
+  "version": "0.1.0",
+  "summary": "A short description of RCCommon.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/任成/RCCommon",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "任成": "rencheng11@icloud.com"
+  },
+  "source": {
+    "git": "https://github.com/任成/RCCommon.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "RCCommon/Classes/**/*"
+}

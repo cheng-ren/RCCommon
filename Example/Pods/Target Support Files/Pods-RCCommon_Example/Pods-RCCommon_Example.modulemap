@@ -1,0 +1,6 @@
+framework module Pods_RCCommon_Example {
+  umbrella header "Pods-RCCommon_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
