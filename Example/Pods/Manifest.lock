@@ -1,5 +1,5 @@
 PODS:
-  - RCCommon (0.1.0)
+  - RCCommon (0.1.8)
 
 DEPENDENCIES:
   - RCCommon (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  RCCommon: 1992c8c6b98dfd7a9e9716c04d37a99b194fc455
+  RCCommon: 5d5440086cea54d7902217cf8b86454ff56ea011
 
 PODFILE CHECKSUM: 861d648c0ee1ccd664ff3635c5c102f4f7afd1f8
 
